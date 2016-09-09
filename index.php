@@ -15,7 +15,7 @@
 	<h2><center>Administracion del sitio</center></h2>
 	<br>
 
-	<a href="../Listar_visitas.php">Listar_visitas</a>
+	<a href="Listar_visitas.php">Listar_visitas</a>
 
 
 

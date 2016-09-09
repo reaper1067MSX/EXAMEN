@@ -1,17 +1,8 @@
 <?php
 
-	require_once ("../clases/conexion.php");
+	require_once ("conexion.php");
 
-	//require_once ("../clases/usuario.php");
-	//require_once ("../clases/roles.php");
 
-	require_once ("../clases/usuario.php");
-	require_once ("../clases/roles.php");
-
-//no elimnar monica
-require_once ("../clases/persona.php");
-require_once ("../clases/cliente.php");
-require_once ("../clases/estrato_social.php");
 
 //*********
 
