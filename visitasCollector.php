@@ -1,7 +1,7 @@
 <?php
 
 
-	require_once("../clases/colector.php");
+	require_once("colector.php");
 
 	class visitasCollector{
 
