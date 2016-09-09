@@ -8,8 +8,8 @@ require_once("visitasCollector.php");
 
 //Inicializacion
 
-$alm = new usuario();
-$model = new userCollector();
+$alm = new visitas();
+$model = new visitasCollector();
 
 $id= 0;
 
@@ -19,7 +19,7 @@ $id= 0;
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin - Usuario - Consulta</title>
+	<title>Admin - Visitas - Consulta</title>
 </head>
 <body>
 
